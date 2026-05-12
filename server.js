@@ -1,4 +1,3 @@
-cat > server.js << 'EOF'
 const express = require('express');
 const app = express();
 
